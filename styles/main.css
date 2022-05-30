@@ -128,7 +128,7 @@
 }
 
 .content-wrapper {
-  min-height: 870px;
+  min-height: 800px;
   width: 80%;
   margin: 0 auto;
   display: -webkit-box;
@@ -171,7 +171,7 @@
 
 .content-block1, .content-block2 {
   width: 45%;
-  min-height: 790px;
+  min-height: 700px;
   border: 1px double #000;
   border-radius: 10px;
   padding: 20px;
